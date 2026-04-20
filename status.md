@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Bryan Estevez
 
 #### Your section leader's name
 
-TODO
+Bao Huynh
 
 #### Project title
 
-TODO
+Roblox Analytics trakcer
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have made the discord both, linked it to roblox api, and have started making commands that show stats (they just have placeholders).
 
 #### What have you not done for your project yet?
 
-TODO
+Finished the commands that actually show the analytics and stats that I want to dipslay.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Ive had problems linking roblox api and trouble understanding the code behind discord bots. The hardest part for me is learning intents, which is basically the permissions behind what the bot can do.
